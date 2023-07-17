@@ -21,6 +21,15 @@ To clean up, run `make clean`.
 
 Note: You may need `sudo` password to perform benchmark (cycle count in Apple M1 requires `sudo`). 
 
+#### REF
+
+Go to `ref` folder, `make all` first, then run:
+
+- `make m1`: to run default Hawk speed benchmark
+
+To clean up, run `make clean`.
+
+Note: You may need `sudo` password to perform benchmark (cycle count in Apple M1 requires `sudo`).
 
 ### Cortex-A72
 
@@ -33,6 +42,17 @@ Go to `neon` folder, `make build` first, then run:
 To clean up, run `make clean`.
 
 There is no need for `sudo`. 
+
+#### REF
+
+Go to `ref` folder, `make all` first, then run:
+
+- `make a72`: to run default Hawk speed benchmark
+
+To clean up, run `make clean`.
+
+There is no need for `sudo`.
+
 
 ## Compressed Twiddle Factor Implementation
 
