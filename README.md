@@ -13,12 +13,18 @@ The implementation in this repository belongs to the paper "Fast Falcon Signatur
 
 ```bib
 @InProceedings{nguyen_falcon_aficacrypt,
-author="\textbf{Nguyen, Duc Tri}
-and Gaj, Kris",
-title="Fast Falcon Signature Generation and Verification Using ARMv8 NEON Instructions",
-booktitle="Progress in Cryptology - 14th international conference on Cryptology AFRICACRYPT 2023",
-year="2023",
-publisher="Africacrypt",
+    author="Nguyen, Duc Tri
+    and Gaj, Kris",
+    editor="El Mrabet, Nadia
+    and De Feo, Luca
+    and Duquesne, Sylvain",
+    title="Fast Falcon Signature Generation and Verification Using ARMv8 NEON Instructions",
+    booktitle="Progress in Cryptology - AFRICACRYPT 2023",
+    year="2023",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="417--441",
+    isbn="978-3-031-37679-5"
 }
 ```
 
